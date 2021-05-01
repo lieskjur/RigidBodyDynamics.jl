@@ -32,7 +32,8 @@ export
     Fixed,
     Planar,
     QuaternionSpherical,
-    SinCosRevolute
+    SinCosRevolute,
+    Involute
 
 # basic functionality related to mechanism structure
 export
